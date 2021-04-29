@@ -2,9 +2,11 @@
 
 ### 项目仓库地址
 
-**客户端地址：** https://github.com/I-Info/QAQ-Client
+**客户端(Qt)仓库地址：** https://github.com/I-Info/QAQ-Desktop-Qt
 
-**服务端地址：** https://github.com/lixiao189/QAQServer
+**客户端(Android)仓库地址: ** https://github.com/I-Info/QAQ-Android
+
+**服务端(Go)仓库地址：** https://github.com/lixiao189/QAQServer
 
 ### 项目介绍
 
