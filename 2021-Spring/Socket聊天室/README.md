@@ -1,14 +1,21 @@
-# socket 项目介绍
+# Socket聊天室 项目介绍
 
 ### 项目仓库地址
 
-**桌面客户端(C++[Qt]):** https://github.com/I-Info/QAQ-Desktop-Qt
+**桌面客户端(C++[Qt]):**     
+https://github.com/I-Info/QAQ-Desktop-Qt     
+![](https://img.shields.io/github/v/release/I-Info/QAQ-Desktop-Qt?logo=github&style=flat-square)
 
-**桌面客户端(Go)(Building):** https://github.com/lixiao189/QAQ-GO
+**桌面客户端(Go)(Building):**     
+https://github.com/lixiao189/QAQ-GO     
+![](https://img.shields.io/github/v/release/lixiao189/QAQ-GO?logo=github&style=flat-square)
 
-**移动客户端(Android):** https://github.com/I-Info/QAQ-Android
+**移动客户端(Android):**     
+https://github.com/I-Info/QAQ-Android     
+![](https://img.shields.io/github/v/release/I-Info/QAQ-Android?logo=github&style=flat-square)      
 
-**服务端(Go):** https://github.com/lixiao189/QAQServer
+**服务端(Go):**    
+https://github.com/lixiao189/QAQServer
 
 
 ### 项目介绍
